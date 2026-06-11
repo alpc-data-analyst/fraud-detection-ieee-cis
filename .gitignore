@@ -1,0 +1,23 @@
+# Copia de seguridad local (no publicar)
+*.BACKUP.ipynb
+
+# Datos de Kaggle (se descargan al ejecutar el notebook)
+ieee-fraud-detection/
+*.csv
+*.zip
+
+# Credenciales de Kaggle
+kaggle.json
+.kaggle/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Sistema
+.DS_Store
